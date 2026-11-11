@@ -87,13 +87,10 @@ src/
 ## 👤 Author
 
 **Shivam Bhat**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/ShivamB23)
+- LinkedIn: [your-profile](https://www.linkedin.com/in/shivam-bhat-942343312/)
 
 ## 🙏 Acknowledgements
 
 This product uses the TMDB API but is not endorsed or certified by [TMDB](https://www.themoviedb.org/).
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
