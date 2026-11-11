@@ -87,8 +87,8 @@ src/
 ## 👤 Author
 
 **Shivam Bhat**
-- GitHub: [@your-username](https://github.com/ShivamB23)
-- LinkedIn: [your-profile](https://www.linkedin.com/in/shivam-bhat-942343312/)
+- GitHub: [ShivamB23](https://github.com/ShivamB23)
+- LinkedIn: [Shivam Bhat](https://www.linkedin.com/in/shivam-bhat-942343312/)
 
 ## 🙏 Acknowledgements
 
